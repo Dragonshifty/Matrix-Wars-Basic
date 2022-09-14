@@ -1,2 +1,2 @@
-# Matrix-Wars
+# Matrix Wars Basic
 Battleship-inspired game where the lowest score wins. Two matrices are created, where you can only see your oppopent's matrix. Enter x and y coordinates to try and get higher than your oppopent's corresponding coordinates. Both sets of coordinates will be added to a total score - if you miss (score lower that round) an additional 10 point penalty will be incurred. Miss three times and you lose. Three hits and you win. The aim is to get as lower total score as possible after a win.
